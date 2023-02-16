@@ -18,7 +18,7 @@ If you discover bugs or deficiencies in the above, please leave an issue to rais
 For *new feature proposals*, however, please raise them for [discussion](https://github.com/dotnet/csharplang/labels/Discussion), and *only* submit a proposal as a pull request if invited to do so by a member of the Language Design Team (a "champion").
 
 ## Discussions
-
+ class{}
 Debate pertaining to language features takes place in the form of [Discussions](https://github.com/dotnet/csharplang/discussions) in this repo.
 
 If you want to suggest a feature, discuss current design notes or proposals, etc., please [open a new Discussion topic](https://github.com/dotnet/csharplang/discussions/new).
